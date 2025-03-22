@@ -24,8 +24,8 @@ Step 6. Stop
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: Alan Samuel Vedanayagam
-RegisterNumber: 212223040012
+Developed by: Guru Raghav Ponjeevith V
+RegisterNumber: 212223220027
 */
 ```
 ```
